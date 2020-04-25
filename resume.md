@@ -23,7 +23,7 @@ Familliar with C#(ASP.NET MVC/Core), MS SQL, HTML+CSS, AND Javascript(React). I 
 + Bitbucket
 + npm
 
-## Code exampled
+## Code examples
 All code examples can be found at my __[github account](https://github.com/mamok0/)__
 
 ##Experience
@@ -32,7 +32,7 @@ All code examples can be found at my __[github account](https://github.com/mamok
   Dec 2019 - Present
 + Intern (Full-stack .NET)
   iTechArt Group
-  Aug 2019 - Nov 2019
+  Aug 2019 - Dec 2019
   
 ## Education
 Belarusian State University
@@ -40,7 +40,7 @@ Student, Web-programming and computer design
 2017-2021
 
 ## English
-==B1+ level.== I do my best to consume all information I can in English (including movies, series etc.).
+B1+ level. I do my best to consume all information I can in English (including movies, series etc.).
 
 
   
