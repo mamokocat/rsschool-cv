@@ -28,11 +28,11 @@ All code examples can be found at my __[github account](https://github.com/mamok
 
 ##Experience
 + Junior Full-stack .NET Developer
-  Forte Group - Full-time
-  Dec 2019 - Present
+  - Forte Group - Full-time
+  - Dec 2019 - Present
 + Intern (Full-stack .NET)
-  iTechArt Group
-  Aug 2019 - Dec 2019
+  - iTechArt Group
+  - Aug 2019 - Dec 2019
   
 ## Education
 Belarusian State University
