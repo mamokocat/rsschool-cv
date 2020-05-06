@@ -1,6 +1,6 @@
 # Kivachuk Artyom
 
-##Contact info
+## Contact info
 + mamokosf@gmail.com
 + +375292209976
 + linkedin.com/mamoko
@@ -26,7 +26,7 @@ Familliar with C#(ASP.NET MVC/Core), MS SQL, HTML+CSS, AND Javascript(React). I 
 ## Code examples
 All code examples can be found at my __[github account](https://github.com/mamok0/)__
 
-##Experience
+## Experience
 + Junior Full-stack .NET Developer
   - Forte Group - Full-time
   - Dec 2019 - Present
